@@ -33,3 +33,7 @@
 
 # CLion
 .idea
+
+# Build directory
+build/*
+!build/.gitkeep
